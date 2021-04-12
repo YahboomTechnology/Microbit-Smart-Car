@@ -25,5 +25,5 @@ https://www.facebook.com/yahboomtech
 ### WhatsApp:
 +86 18682378128
 ### Technical support email: 
-market@yahboom.com
+support@yahboom.com
 
