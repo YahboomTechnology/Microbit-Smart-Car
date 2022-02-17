@@ -11,8 +11,6 @@ Yahboom micro:bit smart robot is developed with the most popular Micro:bit board
 * It supports JavaScript graphical programming, Python and other micro:bit programming methods.
 * More than 30 kinds of experiment courses are provided.
 # Required Best Buy Links
-[By on Amazon](https://www.amazon.com/-/zh/dp/B08F9WGK71?ref_=ast_sto_dp)
-
 [By on Yahboom website](https://category.yahboom.net/collections/mb-robotics/products/bitbot)
 
 # Please Contact Us
